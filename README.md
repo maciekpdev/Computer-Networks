@@ -1,1 +1,1 @@
-# Projects from university's computer networks classes.
+Projects from university's computer networks classes.
